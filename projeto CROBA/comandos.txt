@@ -1,0 +1,15 @@
+dataset:
+
+.rar
+https://drive.google.com/open?id=1LUuCeNJ-rsdjrCRtLrkrH7eJPoaZERtZ
+
+.tar
+https://drive.google.com/open?id=1YIvgpnzqXgJubHGspmHvvnsno4srYFqd
+
+comandos para extrair:
+
+cd tutorials/fastai/course-v3/nbs/dl1/data/
+
+tar -xvf crobas.tar
+
+
